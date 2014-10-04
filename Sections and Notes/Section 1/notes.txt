@@ -1,0 +1,7 @@
+ctrl c + ctrl s = break emcas
+use "filename.sml";
+
+ctrl x + ctrl s  >> save
+
+Syntax is how you write something
+Semantics is what that something means
