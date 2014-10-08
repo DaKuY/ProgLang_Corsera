@@ -20,3 +20,5 @@ Evaluation rules:
   first evaluate e1 to a value call it v1
   if it's true, evaluate e2 and that result is the whole expression's result
   else, evaluate e3 and that result is the whole expression's result
+  
+REPL - Read evaluate print loop (use expression)
