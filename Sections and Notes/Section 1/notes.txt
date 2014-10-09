@@ -22,3 +22,5 @@ Evaluation rules:
   else, evaluate e3 and that result is the whole expression's result
   
 REPL - Read evaluate print loop (use expression)
+CRTL + D > stop repl
+CTRL + C and CTRL + S then you can type "use" again.
