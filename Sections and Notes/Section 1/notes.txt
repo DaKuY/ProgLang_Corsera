@@ -24,3 +24,8 @@ Evaluation rules:
 REPL - Read evaluate print loop (use expression)
 CRTL + D > stop repl
 CTRL + C and CTRL + S then you can type "use" again.
+
+Recursion more powerful than loops
+  - Loops often (not always) obscure simple, elegant solutions
+  - solves simpler problems is less about of code
+  
