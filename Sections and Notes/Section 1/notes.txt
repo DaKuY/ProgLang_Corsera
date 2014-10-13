@@ -29,3 +29,7 @@ Recursion more powerful than loops
   - Loops often (not always) obscure simple, elegant solutions
   - solves simpler problems is less about of code
   
+Evaluation:
+1. eval the function
+2. evalute the arguments
+3. result is val of e in an environment
